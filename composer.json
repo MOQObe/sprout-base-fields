@@ -1,7 +1,7 @@
 {
   "name": "barrelstrength/sprout-base-fields",
   "description": "Common fields libraries for Sprout Plugins for Craft CMS",
-  "version": "1.4.6",
+  "version": "4.0.0",
   "type": "yii-module",
   "license": "proprietary",
   "authors": [
@@ -18,7 +18,7 @@
     "rss": "https://github.com/barrelstrength/sprout-base/commits/v2.atom"
   },
   "require": {
-    "craftcms/cms": "^3.1.0",
+    "craftcms/cms": "^4.0.0",
     "commerceguys/addressing": "^1.0.6",
     "giggsey/libphonenumber-for-php": "^8.12.4"
   },
