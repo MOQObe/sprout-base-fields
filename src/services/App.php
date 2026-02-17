@@ -59,7 +59,7 @@ class App extends Component
     /**
      * @inheritdoc
      */
-    public function init()
+    public function init():void
     {
         // Sprout Fields
         $this->addressField = new Address();
