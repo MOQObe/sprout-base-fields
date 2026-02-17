@@ -19,7 +19,7 @@
   },
   "require": {
     "craftcms/cms": "^5.0.0",
-    "commerceguys/addressing": "^1.0.6",
+    "commerceguys/addressing": "^2.0",
     "giggsey/libphonenumber-for-php": "^8.12.4"
   },
   "autoload": {
